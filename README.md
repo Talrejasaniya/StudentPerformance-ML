@@ -63,7 +63,7 @@ The dataset includes the following columns:
 
 A visual representation of the trained decision tree is generated using `matplotlib`.
 
-![Decision Tree](tree_model.png)
+![Decision Tree](decision_tree_model.png)
 
 ---
 
